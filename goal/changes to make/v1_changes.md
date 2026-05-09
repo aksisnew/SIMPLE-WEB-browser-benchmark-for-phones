@@ -9,3 +9,4 @@
 9. Remove non native uuid tests and replace with a note in notes section.
 10. Fix AES benchmark reusing same IV (we should use random iv)
 11. add warning on top if device is offline or online. 
+12. Add sha 256 benchmarks.
