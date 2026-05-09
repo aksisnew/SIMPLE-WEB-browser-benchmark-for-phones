@@ -1,0 +1,1 @@
+The aim with this repository is to test the browser capabilities on mobile tempratures on a phone. With testing the speed of multiple apis in a mobile browser and mobile processor. Proving them they are at par with laptop processors at a specific medium level not replacing them for 100% tasks but can beat them in 80% tasks
